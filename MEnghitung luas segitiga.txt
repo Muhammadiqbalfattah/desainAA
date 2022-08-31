@@ -1,0 +1,19 @@
+Algoritma cara menghitung 
+step 1) mendeklarasikan luas, alasa, tinggi
+step 2) masukan alas = 25, tinggi 30
+step 3) menghitung luas = 1/2 * alas * tinggi
+step 4) menampilkan hasil luas
+
+pseudocode :
+
+Deklarasil;
+luas = 1/2 * a * t
+
+a = 25
+t = 30
+
+Read ( a,t);
+read (25,30);
+luas = 1/2  * 25 * 30
+Write (luas) = hasil
+

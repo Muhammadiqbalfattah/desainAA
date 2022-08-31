@@ -1,0 +1,25 @@
+Tentukan algoritma dan pseudocode volume kerucut ( diameter = 5, tinggi 4)
+
+Algoritma : 
+1) Mendeklarasikan diameter dan tinggi, lalu ditulis ulang dengan variable lain 
+2) Masukkan nilai diameter dan tinggi 
+3) Hitunglah nilai jari-jari dengan memasukan nilai diameter = 2 lalu di bagi 2
+4) Masukkan rumus/kombinasi variable
+5) Hasil hitung.
+
+
+Pseudocode ;
+
+var d,t, phi, r;
+
+diameter = 5;
+tinggi = 4;
+phi = 3.14;
+
+r = d/2;
+
+volume = 1/3 * phi * r^ * t;
+Write (volume) = ...
+
+
+

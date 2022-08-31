@@ -1,0 +1,28 @@
+Step 1 jika n = 0 return nilai m sebagai hasil dan stop. jika tidak, kembali ke step 2
+step 2 bagi nilai m dengan n, masukan nilai sisasnya ke r
+step 3 masukkan nilai n ke m dan nilai r ke n. kembali ke step 1
+
+Pseudocode :
+while n =/ 0 do
+r <- m mod n 
+m<- n
+n <-  r
+return m 
+
+1) tentukan nilai kpk dari 3 dan 4 ! = 12
+tentukan algoritma dan pseudocodenya!
+
+step 1 : Hitung nilai gcd dari a dan b setelah itu simpan.
+step 2 : Kali dengan 3 dan 4, lalu hasil kali dibagi dengan gcd
+step 3 : Hasil dari pembagian 
+
+pseudocode :
+hasil gcd <- gcd (3,4)
+| 3 * 4| ,- 
+
+
+
+
+
+
+

@@ -1,0 +1,39 @@
+1) Tentukan algoritma dan pseucode luas jajar genjang ( pannjang = 5, tinggi 30)
+
+algoritma ;
+1) Mendeklarasikan panjang, tinggi 
+2) Memasukkan nilai panjang = 5 dan tinggi 30, lalu ditulis ulang dalam variabel baru
+3) menghitung luas jajar genjang = a* t, panjang = alas jajar genjang
+4) Menampilakn hasil hitung luas
+
+
+
+
+Deklarasi;
+
+var p = 5
+var t = 30
+var   = p
+
+read ( a, t)
+write (Luas)  = a * t
+
+
+2) tentukan algoritma dan pseudocode volume tabung ( jari-jari = 3, tinggi = 5)
+algoritma ;
+1) Mendeklarasikan jari-jari, tinggi, dan phi dan tulis ulang dengan variabel baru
+2) masukan nilai jari-jari = 3 dan tinggi = 5
+3) menghitung volume tabung = phi * r^ * t
+4) Menampilkan hasil hitung volume
+
+Deklarasi;
+ 
+var r = jari-jari
+var t = tinggi
+var phi = 3.14
+
+jari-jari = 3
+tinggi = 5
+
+Volume = phi * r^ * t
+write (volume) = ...
